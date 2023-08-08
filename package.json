@@ -1,0 +1,17 @@
+{
+  "name": "3dmeta-backend",
+  "version": "1.0.0",
+  "description": "Backend for 3DMeta",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "firebase-admin": "^10.0.2",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.15"
+  }
+}
